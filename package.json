@@ -1,0 +1,22 @@
+{
+  "name": "online-trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx node-sass -w ./css/style.scss ./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyushi514/online-trading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuyushi514/online-trading/issues"
+  },
+  "homepage": "https://github.com/wuyushi514/online-trading#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
